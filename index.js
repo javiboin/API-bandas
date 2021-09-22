@@ -1,4 +1,5 @@
-const { urlencoded } = require('body-parser');
+require('dotenv').config();
+/* const { urlencoded } = require('body-parser'); */
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3028;
