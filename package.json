@@ -1,0 +1,28 @@
+{
+  "name": "api-bandas",
+  "version": "1.0.0",
+  "description": "API con conexion con MySql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiboin/API-bandas.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "MySql",
+    "Sequelize",
+    "JavaScript",
+    "API",
+    "Backend"
+  ],
+  "author": "Javier Alejandro Oyarzo @Javiboin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiboin/API-bandas/issues"
+  },
+  "homepage": "https://github.com/javiboin/API-bandas#readme"
+}
